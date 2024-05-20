@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "49044076875",
+    "project_id": "cpmad-p9",
+    "storage_bucket": "cpmad-p9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:49044076875:android:215a694ed1dae716d850ce",
+        "android_client_info": {
+          "package_name": "com.example.practical_10"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAM-FQ5sNi8MF1k-2DVEgTNs7Is0r4jxoU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
